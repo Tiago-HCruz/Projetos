@@ -1,3 +1,10 @@
+# Projetos
+
+Bem Vindos a esse repositório que tem como objetivo de disponibilizar alguns codigos criados
+
+[Esse repositorio será removido, pois se trata de um rascunho como aprendizado]
+
+
 <style> 
 body {
   background: RGB(250, 192, 105, 0.5);  /* Cor de fundo */
